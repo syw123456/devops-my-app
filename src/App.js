@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           Yang Xiao Tian  Hello world!
+           Yang Xiao Tian Hello world!
         </a>
       </header>
     </div>
