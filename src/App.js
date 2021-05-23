@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           Yang Xiao Tian Hello world!
+          Learn React
         </a>
       </header>
     </div>
